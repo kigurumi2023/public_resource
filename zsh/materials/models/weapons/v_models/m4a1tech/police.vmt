@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\weapons\v_models\m4a1tech\police"
+	$selfillum 1
+	$additive 1
+	Proxies
+	{
+		TextureScroll
+		{
+		texturescrollvar $baseTextureTransform
+		texturescrollrate 1
+		texturescrollangle 180
+		}
+
+	}
+}

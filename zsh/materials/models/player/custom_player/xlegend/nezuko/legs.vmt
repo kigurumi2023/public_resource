@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/custom_player/xlegend/nezuko/legs"
+	"$halflambert" 1
+}

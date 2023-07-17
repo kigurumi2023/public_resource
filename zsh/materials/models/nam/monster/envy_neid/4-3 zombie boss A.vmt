@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture "models/nam/monster/envy_neid/4-3 zombie boss A"
+	$alphatest 1
+	$surfaceprop Flesh
+}
