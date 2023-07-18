@@ -1,0 +1,19 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models\weapons\v_models\m4a1tech\for_col"
+"$bumpmap" "models\weapons\v_models\m4a1tech\for_nml"
+"$PhongExponentTexture" "models\weapons\v_models\m4a1tech\for_spc"
+"$envmap"                        "env_cubemap"      
+"$envmaptint"                    "[.01 .01 .01]" 
+"$normalmapalphaenvmapmask"      "1"  
+"$phong"                         "1"                      
+"$phongboost"                    "25"          
+"$phongfresnelranges" "[2.6 4 4.6]"            
+
+"$phongalbedotint"			"1"
+"$phongalbedoboost"			"25"
+"$envmapfresnel"		"1"
+"$envmapFresnelMinMaxExp""[0 4 .5]"   
+"$nocull" "1"
+"$halflambert" 	   "1" 
+}

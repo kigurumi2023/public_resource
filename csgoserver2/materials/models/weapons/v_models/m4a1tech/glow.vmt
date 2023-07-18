@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models\weapons\v_models\m4a1tech\glow"
+"$additive" "1"
+"$selfillum" "1"
+}
