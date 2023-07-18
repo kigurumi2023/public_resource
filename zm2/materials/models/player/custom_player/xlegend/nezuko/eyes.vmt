@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/custom_player/xlegend/nezuko/eyes"
+	"$nocull" 1
+	"$halflambert" 1
+}
