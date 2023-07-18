@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+$baseTexture "models\nam\weapon\w_sfsniper\#256256sfsniper_p"
+"$selfillum" 1
+}

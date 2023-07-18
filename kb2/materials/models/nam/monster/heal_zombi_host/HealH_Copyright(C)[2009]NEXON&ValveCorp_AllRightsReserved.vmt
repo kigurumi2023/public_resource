@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	$basetexture "models\nam\monster\heal_zombi_host\HealH_Copyright(C)[2009]NEXON&ValveCorp_AllRightsReserved"
+	$alphatest 1
+}
